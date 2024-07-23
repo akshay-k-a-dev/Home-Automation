@@ -4,7 +4,7 @@ This project demonstrates a home automation system using ESP32, WiFi, and Sinric
 
 ## Circuit Diagram
 
-![Circuit Diagram]()
+![Circuit Diagram](esp32_relay_circuit.png)
 
 ## Components Used
 
