@@ -1,6 +1,3 @@
-Here is a `README.md` file for uploading your Arduino code on GitHub, including the `esp32_relay_circuit.png` file as the circuit diagram.
-
-```markdown
 # Home Automation using ESP32
 
 This project demonstrates a home automation system using ESP32, WiFi, and SinricPro to control relays and switches. The ESP32 is used to control up to four relays and switches, allowing for remote and manual control of connected devices.
